@@ -1170,3 +1170,24 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-sxh3P0kkvu {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sxh3P0kkvu .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sxh3P0kkvu form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sxh3P0kkvu form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sxh3P0kkvu form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
