@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "PRDALogin.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,7 +45,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "9hrumfig6s",
+    "mbrsiteDomain": "lpbv7ju4ux",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -510,7 +510,7 @@
         }
       ]
     },
-    "PRDALogin.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Personnel Records Display Application Login",
